@@ -1,0 +1,15 @@
+E:\learn\learn2\learn2\bin\x64\Debug\Emgu.CV.World.dll
+E:\learn\learn2\learn2\bin\x64\Debug\Interop.WMPLib.dll
+E:\learn\learn2\learn2\bin\x64\Debug\AxInterop.WMPLib.dll
+E:\learn\learn2\learn2\obj\x64\Debug\Interop.WMPLib.dll
+E:\learn\learn2\learn2\obj\x64\Debug\AxInterop.WMPLib.dll
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.csproj.ResolveComReference.cache
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.Form1.resources
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.csproj.GenerateResource.Cache
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.csprojResolveAssemblyReference.cache
+E:\learn\learn2\learn2\bin\x64\Debug\learn2.exe.config
+E:\learn\learn2\learn2\bin\x64\Debug\learn2.exe
+E:\learn\learn2\learn2\bin\x64\Debug\learn2.pdb
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.Properties.Resources.resources
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.exe
+E:\learn\learn2\learn2\obj\x64\Debug\learn2.pdb

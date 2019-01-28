@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Redlight.Bigpic" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Bigpic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.ThreadWithState">
+    <Position X="10.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAQAAEAAEASAAAAAAAAAA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Faceadd" Collapsed="true">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Faceinfotemp">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAgAAAQAAQQAIAQAAAkEAAEA1AAAAIAEAACAAAAgA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Huakuangc" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAABAAAAAAAAgAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Weizhi" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAgAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.CustomComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Redlight.Readtxt" Collapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Face_detect_sdk" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIJFBABAARIEQcEAQIgAAAAHAAEACICAABAgAQkAA=</HashCode>
+      <FileName>Face_detect_sdk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Face_Info_Trace">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAEAAJEA0ABUgAIAAAgABAIAgAABTAMCgBAA=</HashCode>
+      <FileName>Getfaceinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.History" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABABAAQiAAQFAABACAgAACIAQIAAAAAEAQAAAQAAA=</HashCode>
+      <FileName>History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.parameter" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACCEEBAAABCOACACABAAAAAAkIAAAQBAAJA=</HashCode>
+      <FileName>parameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.redcatch">
+    <Position X="3.5" Y="1.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Redlight.redcatch.MyInvoke" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>redcatch.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Struct Name="Redlight.redcatch.CopyDataStruct" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>redcatch.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BhSCCUBgUCGACLNIAAGBQQACBfc4bRAEQ3UMoo9BgIo=</HashCode>
+      <FileName>redcatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FaceInfo" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABgAAAQAAQQAIAQAQAEEAAEA0AAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Getfaceinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Properties.Resources" Collapsed="true">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAEEAAAAAoEAABMAAAAQAhAAAAAEAAAABAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Redlight.Properties.Settings" Collapsed="true">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
