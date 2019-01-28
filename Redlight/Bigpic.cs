@@ -15,6 +15,7 @@ namespace Redlight
         public Bigpic()
         {
             InitializeComponent();
+			
         }
     }
 }
